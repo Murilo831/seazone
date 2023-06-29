@@ -1,0 +1,35 @@
+[
+    {
+      "model": "sea_app.anuncio",
+      "pk": 1,
+      "fields": {
+        "imovel": 1,
+        "plataforma": "Airbnb",
+        "taxa_plataforma": 10.00,
+        "data_criacao": "2022-01-01T00:00:00Z",
+        "data_atualizacao": "2022-01-01T00:00:00Z"
+      }
+    },
+    {
+      "model": "sea_app.anuncio",
+      "pk": 2,
+      "fields": {
+        "imovel": 2,
+        "plataforma": "Booking",
+        "taxa_plataforma": 15.00,
+        "data_criacao": "2022-01-01T00:00:00Z",
+        "data_atualizacao": "2022-01-01T00:00:00Z"
+      }
+    },
+    {
+      "model": "sea_app.anuncio",
+      "pk": 3,
+      "fields": {
+        "imovel": 3,
+        "plataforma": "Expedia",
+        "taxa_plataforma": 12.50,
+        "data_criacao": "2022-01-01T00:00:00Z",
+        "data_atualizacao": "2022-01-01T00:00:00Z"
+      }
+    }
+  ]

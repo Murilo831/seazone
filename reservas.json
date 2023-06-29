@@ -1,0 +1,122 @@
+[
+    {
+      "model": "sea_app.reserva",
+      "pk": 1,
+      "fields": {
+        "codigo_reserva": "ABC123",
+        "anuncio": 1,
+        "data_checkin": "2022-01-01",
+        "data_checkout": "2022-01-05",
+        "preco_total": 500.00,
+        "comentario": "Reserva 1",
+        "numero_hospedes": 2,
+        "data_criacao": "2022-01-01",
+        "data_atualizacao": "2022-01-01T12:00:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 2,
+      "fields": {
+        "codigo_reserva": "DEF456",
+        "anuncio": 2,
+        "data_checkin": "2022-02-10",
+        "data_checkout": "2022-02-15",
+        "preco_total": 800.00,
+        "comentario": "Reserva 2",
+        "numero_hospedes": 4,
+        "data_criacao": "2022-02-01",
+        "data_atualizacao": "2022-02-05T15:20:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 3,
+      "fields": {
+        "codigo_reserva": "GHI789",
+        "anuncio": 3,
+        "data_checkin": "2022-03-20",
+        "data_checkout": "2022-03-25",
+        "preco_total": 600.00,
+        "comentario": "Reserva 3",
+        "numero_hospedes": 3,
+        "data_criacao": "2022-03-01",
+        "data_atualizacao": "2022-03-02T09:10:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 4,
+      "fields": {
+        "codigo_reserva": "JKL123",
+        "anuncio": 2,
+        "data_checkin": "2022-04-05",
+        "data_checkout": "2022-04-10",
+        "preco_total": 700.00,
+        "comentario": "Reserva 4",
+        "numero_hospedes": 2,
+        "data_criacao": "2022-04-01",
+        "data_atualizacao": "2022-04-02T14:30:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 5,
+      "fields": {
+        "codigo_reserva": "MNO456",
+        "anuncio": 1,
+        "data_checkin": "2022-05-15",
+        "data_checkout": "2022-05-20",
+        "preco_total": 900.00,
+        "comentario": "Reserva 5",
+        "numero_hospedes": 4,
+        "data_criacao": "2022-05-01",
+        "data_atualizacao": "2022-05-05T16:45:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 6,
+      "fields": {
+        "codigo_reserva": "PQR789",
+        "anuncio": 1,
+        "data_checkin": "2022-06-25",
+        "data_checkout": "2022-06-30",
+        "preco_total": 550.00,
+        "comentario": "Reserva 6",
+        "numero_hospedes": 3,
+        "data_criacao": "2022-06-01",
+        "data_atualizacao": "2022-06-02T08:45:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 7,
+      "fields": {
+        "codigo_reserva": "STU123",
+        "anuncio": 2,
+        "data_checkin": "2022-07-10",
+        "data_checkout": "2022-07-15",
+        "preco_total": 750.00,
+        "comentario": "Reserva 7",
+        "numero_hospedes": 2,
+        "data_criacao": "2022-07-01",
+        "data_atualizacao": "2022-07-02T11:20:00Z"
+      }
+    },
+    {
+      "model": "sea_app.reserva",
+      "pk": 8,
+      "fields": {
+        "codigo_reserva": "VWX456",
+        "anuncio": 3,
+        "data_checkin": "2022-08-20",
+        "data_checkout": "2022-08-25",
+        "preco_total": 650.00,
+        "comentario": "Reserva 8",
+        "numero_hospedes": 3,
+        "data_criacao": "2022-08-01",
+        "data_atualizacao": "2022-08-02T10:10:00Z"
+      }
+    }
+  ]
